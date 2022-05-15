@@ -12,6 +12,7 @@ RUN \
     openssh-server \
     openssh-client \
     dnsutils \
+    restic \ 
     whois \
     borgbackup \
     vim \
