@@ -14,13 +14,13 @@ RUN \
     dnsutils \
     restic \ 
     whois \
-    borgbackup \
+#    borgbackup \
     vim \
     gnupg \
     gzip \
     iptables \
-    kpcli \
-    mailutils \
+#    kpcli \
+#    mailutils \
     make \
     mosh \
     rsync \
@@ -38,8 +38,8 @@ RUN \
     unzip \
     ffmpeg \
     wireguard \
-    openresolv \
-    transmission-daemon \
+#    openresolv \
+#    transmission-daemon \
     locales \
     tzdata \
     git \
@@ -47,9 +47,9 @@ RUN \
     telnet \
     curl \
     rename \
-    man \
+#    man \
     file \
-    dict \
+#    dict \
     gcc \
     nmap \
     libpurple-dev \
@@ -61,11 +61,11 @@ RUN \
     libjson-perl \
     iproute2 \
     iputils-ping \
-    dbus-x11 \
-    terminator \
-    task-xfce-desktop \ 
-    tigervnc-standalone-server \
-    xrdp \
+#    dbus-x11 \
+#    terminator \
+#    task-xfce-desktop \ 
+#    tigervnc-standalone-server \
+#    xrdp \
     purple-discord \
     python3-pip \
     golang \ 
