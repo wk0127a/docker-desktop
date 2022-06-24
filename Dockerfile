@@ -14,13 +14,11 @@ RUN \
     dnsutils \
     restic \ 
     whois \
-#    borgbackup \
+    lynx \
     vim \
     gnupg \
     gzip \
     iptables \
-#    kpcli \
-#    mailutils \
     make \
     mosh \
     rsync \
